@@ -13,7 +13,7 @@ public class Main {
         // Mengubah nilai atribut menggunakan setter
         mahasiswa.setNama("Ardila Ayu Febriana");
         mahasiswa.setNim("G111190054");
-        mahasiswa.setSmt(7);
+        mahasiswa.setSmt(8);
 
         System.out.println("Nama (setelah perubahan): " + mahasiswa.getNama());
         System.out.println("NIM (setelah perubahan): " + mahasiswa.getNim());
